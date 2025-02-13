@@ -1,6 +1,1 @@
-.\elastic-agent.exe install `
-  --fleet-server-es=https://:9200 `
-  --fleet-server-service-token=AAEAAWVsYXN0aWMvZmxlZXQtc2VydmVyL3Rva2VuLTE3Mzk0NTIzMjA2NDM6bDFKVlBFbFlSMVNFaG9qNS00dW92Zw `
-  --fleet-server-policy=fleet-server-policy `
-  --fleet-server-es-ca-trusted-fingerprint=b9bbf4add086ca4ff09303096af9e68a1fb24b4114860a7b431ad2d4b0b7c6b2 `
-  --fleet-server-port=8220
+Sm1kdl81UUJHazBpVVpHWU42Wkw6aHlTYkN1b1FTZXlvRV82bkJoNXFodw==
